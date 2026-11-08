@@ -40,7 +40,7 @@ I am a Computer Science graduate passionate about analysing data, discovering in
 
 ## 🎓 Education
 
-Bachelor of Technology (B.Tech) – Computer Science and Engineering
+Bachelor of Engineering (B.E) – Computer Science and Engineering
 
 ## 📫 Connect With Me
 
